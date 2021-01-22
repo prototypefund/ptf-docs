@@ -5,7 +5,15 @@ parent: FAQ
 nav_order: 1
 ---
 
-# Wer kann sich bewerben?
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Wer kann sich bewerben?
 
 - Ihr seid Einzelentwickler\*innen oder Teil eines Teams\* (aus Entwickler\*innen + x). ✓
 - Eure Idee ist ein Software-Projekt (oder basiert zumindest zu großen Teilen auf Software – Hardware-Projekte sind **nicht** förderfähig). ✓
@@ -17,7 +25,7 @@ nav_order: 1
 
 \*\* Neben der Selbstständigkeit könnt ihr auch weiterhin in Teilzeit angestellt sein.
 
-# Was bietet der Prototype Fund?
+## Was bietet der Prototype Fund?
 
 - Eine Förderung mit bis zu 47.500€ über 6 Monate\*
 - Unterstützung durch Mentor\*innen und Coaching durch User-Centered-Design-sowie Projektmanagement-Experten\*innen
@@ -27,7 +35,7 @@ Neben dem finanziellen Support steht der Aufbau eines Netzwerks für uns im Vord
 
 \*Diese Summe gilt seit der dritten Bewerbungsrunde.
 
-# Welche Themenschwerpunkte werden gefördert?
+## Welche Themenschwerpunkte werden gefördert?
 
 - [Civic Tech](https://prototypefund.de/software-fuer-den-souveraen-civic-tech-von-und-fuer-buergerinnen/): Digitale Tools für Bürger\*innen, z. B.
   - neue Modelle und Anwendungen zur Erzeugung, zum Teilen und zur Nutzung von (offenen) Daten,
@@ -37,21 +45,21 @@ Neben dem finanziellen Support steht der Aufbau eines Netzwerks für uns im Vord
 - [Datensicherheit](https://prototypefund.de/kenne-deine-daten/): Werkzeuge mit Fokus auf Privatsphäre, sichere Kommunikation/Datenübertragung und Datensparsamkeit.
 - [Softwareinfrastruktur](https://prototypefund.de/softwareinfrastruktur/): Software und Tools, die den Betrieb der oben genannten Projekte ermöglichen und vereinfachen.
 
-# Der Themenfokus der 10. Runde
+## Der Themenfokus der 10. Runde
 
 Für die nächste Runde haben wir keinen zusätzlichen Themenschwerpunkt gewählt. Mehr dazu lest ihr in der [Begleitforschung](https://prototypefund.de/wp-content/uploads/2020/08/Trendforschung-Runde-9.pdf). Die Bewerbungsphase endete am 31. März 2021.
 
-# Wie aufwändig ist der Bewerbungsprozess?
+## Wie aufwändig ist der Bewerbungsprozess?
 
 Nicht aufwändig.
 
 Über das Bewerbungsformular ([schematische Darstellung hier](https://prototypefund.de/wp-content/uploads/2020/09/Bewerbungsfragen.pdf)) könnt ihr der Jury im ersten Schritt kurz und klar beschreiben, was ihr umsetzen möchtet: In prägnanten Texten, die den Kern deiner Idee erklären und die Verbindung zu unseren geförderten Schwerpunkten deutlich machen. Tipps für Struktur und Ansprache [findet ihr hier](https://prototypefund.de/bewerbung/tipps-kriterien/), weitere wichtige Hinweise in den Learnings aus den [ersten vier Jahren Prototype Fund hier](https://prototypefund.de/12-learnings/). Falls euer Projekt von der Jury als Finalist ausgewählt wird, müsst ihr im Anschluss einen etwas umfangreicheren formalen Antrag gemäß der [Förderrichtlinie des BMBF](https://www.bmbf.de/foerderungen/bekanntmachung-1225.html) einreichen. Mehr Informationen dazu findet ihr unten in den Details. Wir helfen euch selbstverständlich bei der Antragstellung und richten dazu einen gemeinsamen Antragsworkshop aus.
 
-# Wie sieht der zeitliche Ablauf aus?
+## Wie sieht der zeitliche Ablauf aus?
 
 Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch ca. 8 Wochen nach Einreichungsschluss Bescheid, ob ihr unter den Finalist\*innen seid – bei sehr vielen Einreichungen kann es unter Umständen auch länger dauern. Alle Finalist\*innen bzw. eine Person pro Team laden wir zu einem Antragsworkshop nach Berlin ein. An diesem Tag erledigen wir gemeinsam den Papierkram. Förderstart für die zehnte Runde ist voraussichtlich der **1. September 2021**. Wir laden alle geförderten Projekte zu einem **Kick-Off-Workshop** an diesem Tag ein. Danach habt ihr 6 Monate Zeit, eure Prototypen umzusetzen. Am Ende der Umsetzungsphase findet ein **Demo Day** statt, auf dem die Ergebnisse eurer Arbeit vorgestellt werden.
 
-# Von wann bis wann kann ich mich bewerben?
+## Von wann bis wann kann ich mich bewerben?
 
 Insgesamt wird es 16 Förderrunden geben. Die Bewerbungszeiträume sind:
 
@@ -72,15 +80,15 @@ Insgesamt wird es 16 Förderrunden geben. Die Bewerbungszeiträume sind:
 - Runde 15: 01.08.2023-30.09.2023
 - Runde 16: 01.02.2024-31.03.2024
 
-# Kann ich mich auch mit einem bereits bestehenden Projekt bewerben?
+## Kann ich mich auch mit einem bereits bestehenden Projekt bewerben?
 
 Ja, euer Vorhaben für den Prototype Fund sollte aber innerhalb deines Projekts klar abgrenzbar sein und einen eigenständigen Neuheitsgrad haben, z. B. wenn ihr vorhabt, euer Projekt um ein Modul zu erweitern oder zu ergänzen. In jedem Fall muss klar erkennbar sein, was in den 6 Monaten erarbeitet wird.
 
-# Wer bewertet meine Idee?
+## Wer bewertet meine Idee?
 
 Die Projekte werden von einer [Expert\*innenjury](https://prototypefund.de/jury/) evaluiert und bewertet.
 
-# Nach welchen Kriterien werden die Einreichungen bewertet?
+## Nach welchen Kriterien werden die Einreichungen bewertet?
 
 Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
 
@@ -89,15 +97,15 @@ Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
 - Innovationsgrad: Wie neu und spannend ist die Idee?
 - Realisierbarkeit: Habt ihr die nötigen Skills und ist die Idee innerhalb von 6 Monaten umsetzbar?
 
-# Warum werden ausschließlich Open-Source-Projekte gefördert?
+## Warum werden ausschließlich Open-Source-Projekte gefördert?
 
 Wir sind der Überzeugung, dass Ideen, die geteilt werden, neue Anknüpfungspunkte für Projekte und Kooperationen bieten. Wir wollen gewährleisten, dass geförderte Projekte auch in Zukunft weiterentwickelt werden können.
 
-# Kann ich mich auch auf Englisch bewerben?
+## Kann ich mich auch auf Englisch bewerben?
 
 Leider nein. Wir akzeptieren nur Einreichungen auf Deutsch, da das Programm von einem deutschen Ministerium gefördert wird.
 
-# Wie setzt sich die Fördersumme zusammen und wie hängt diese mit den Gesamtarbeitsstunden zusammen?
+## Wie setzt sich die Fördersumme zusammen und wie hängt diese mit den Gesamtarbeitsstunden zusammen?
 
 Die Maximalfördersumme vom 47.500 € berechnet sich angelehnt an die Gesamtarbeitsstundenzahl einer Vollzeitstelle für eine Person, das heißt 950 Arbeitsstunden mit einem Stundensatz von max. 50 € für die gesamte Förderlaufzeit. Wenn der Stundensatz höher liegen soll, muss die Stundenzahl entsprechend verringert werden. Teams benennen und bepreisen Arbeispakete, die addiert nicht den Umfang der Höchstfördersumme (s. o.) überschreiten dürfen.
 

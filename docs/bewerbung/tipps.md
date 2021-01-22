@@ -5,6 +5,14 @@ parent: Berwerbung
 nav_order: 3
 ---
 
+## Inhalt
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Bei der Bewertung achtet die Jury besonders auf die folgenden Kriterien:
 
 - Trifft das Projekt die [**inhaltliche Ausrichtung**](https://prototypefund.de/about/public-interest-tech/) des Prototype Funds? Die Gemeinwohlausrichtung setzt sich hierbei  aus den Komponenten „Relevanz“, „sozial-digitaler Ansatz“, „Reichweite“ und  „Zugänglich machen und -halten von Innovation“ zusammen.
