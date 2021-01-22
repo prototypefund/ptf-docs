@@ -2,8 +2,8 @@
 layout: default
 title: Utilities
 nav_order: 4
+parent: just-the-docs
 has_children: true
-permalink: docs/utilities
 ---
 
 # Utilities

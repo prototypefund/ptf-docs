@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Customization
+parent: just-the-docs
 nav_order: 6
 ---
 
