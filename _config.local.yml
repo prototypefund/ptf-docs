@@ -1,0 +1,13 @@
+url: ""
+
+future: true
+
+compress_html:
+  clippings: false
+  comments: false
+  endings: false
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
