@@ -21,7 +21,7 @@ nav_order: 1
 - [x] Ihr habt euren Wohnsitz in Deutschland, seid selbstständig\*\* und zahlt euere Steuern hier.
 - [x] Euer Projekt wird unter einer Open-Source-Lizenz publiziert. Der Code ist öffentlich zugänglich, z. B. via [GitHub](https://github.com/)- oder [Bitbucket](https://bitbucket.org/)-Repository.
 
-\* Teams: Lest bitte vor der Bewerbung unter “Details” (unten) nach, was für Maßgaben für euch gelten.
+\* Teams: Lest bitte vor der Bewerbung unter “[Details]({{ site.baseurl }}{% link docs/faq/details.md %}#ich-arbeite-an-meinem-projekt-mit-einem-team-welche-dinge-muss-ich-beachten)” nach, was für Maßgaben für euch gelten.
 
 \*\* Neben der Selbstständigkeit könnt ihr auch weiterhin in Teilzeit angestellt sein.
 
@@ -58,6 +58,8 @@ Nicht aufwändig.
 ## Wie sieht der zeitliche Ablauf aus?
 
 Die Einreichungsphase läuft jeweils über 2 Monate. Wir geben euch ca. 8 Wochen nach Einreichungsschluss Bescheid, ob ihr unter den Finalist\*innen seid – bei sehr vielen Einreichungen kann es unter Umständen auch länger dauern. Alle Finalist\*innen bzw. eine Person pro Team laden wir zu einem Antragsworkshop nach Berlin ein. An diesem Tag erledigen wir gemeinsam den Papierkram. Förderstart für die zehnte Runde ist voraussichtlich der **1. September 2021**. Wir laden alle geförderten Projekte zu einem **Kick-Off-Workshop** an diesem Tag ein. Danach habt ihr 6 Monate Zeit, eure Prototypen umzusetzen. Am Ende der Umsetzungsphase findet ein **Demo Day** statt, auf dem die Ergebnisse eurer Arbeit vorgestellt werden.
+
+Das zeigt euch grafisch unsere [Timeline]({{ site.baseurl }}{% link docs/bewerbung/timeline.md %}).
 
 ## Von wann bis wann kann ich mich bewerben?
 
