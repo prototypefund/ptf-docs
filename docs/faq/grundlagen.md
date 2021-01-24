@@ -5,8 +5,8 @@ parent: FAQ
 nav_order: 1
 ---
 
-## Inhalt
-{: .no_toc .text-delta }
+## Inhalt:
+{: .no_toc .text-gamma }
 
 1. TOC
 {:toc}
