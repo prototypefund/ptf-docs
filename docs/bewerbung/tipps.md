@@ -41,4 +41,4 @@ Man muss kein Antragsprofi sein, um bei der Jury zu punkten, aber es gibt ein pa
 - **Vorausschauend**: Im Zeitplan des Projekts zeigt ihr, welche Arbeitsschritte ihr in den sechs Monaten erledigen wollt, und wie viel Zeit ihr dafür ca. einplant. Es geht hier nicht um Details, sondern um eine plausible Einschätzung der Meilensteine und nächsten Schritte.
 - **Vier-Augen-Prinzip**: Legt eure Bewerbungen Dritten vor. Auf diese Art und Weise könnt ihr sie verbessern und Rechtschreibfehler vermeiden.
 
-Ihr möchtet noch mehr wissen? Weitere Fragen beatworten wir im [FAQ](../../faq).
+Ihr möchtet noch mehr wissen? Weitere Fragen beatworten wir im [FAQ]({{ site.baseurl }}{% link docs/faq/index.md %}).
