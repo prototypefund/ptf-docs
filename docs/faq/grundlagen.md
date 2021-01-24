@@ -15,11 +15,11 @@ nav_order: 1
 
 ## Wer kann sich bewerben?
 
-- Ihr seid Einzelentwickler\*innen oder Teil eines Teams\* (aus Entwickler\*innen + x). ✓
-- Eure Idee ist ein Software-Projekt (oder basiert zumindest zu großen Teilen auf Software – Hardware-Projekte sind **nicht** förderfähig). ✓
-- Ihr seid volljährig. ✓
-- Ihr habt euren Wohnsitz in Deutschland, seid selbstständig\*\* und zahlt euere Steuern hier. ✓
-- Euer Projekt wird unter einer Open-Source-Lizenz publiziert. Der Code ist öffentlich zugänglich, z. B. via [GitHub](https://github.com/)- oder [Bitbucket](https://bitbucket.org/)-Repository. ✓
+- [x] Ihr seid Einzelentwickler\*innen oder Teil eines Teams\* (aus Entwickler\*innen + x).
+- [x] Eure Idee ist ein Software-Projekt (oder basiert zumindest zu großen Teilen auf Software – Hardware-Projekte sind **nicht** förderfähig).
+- [x] Ihr seid volljährig.
+- [x] Ihr habt euren Wohnsitz in Deutschland, seid selbstständig\*\* und zahlt euere Steuern hier.
+- [x] Euer Projekt wird unter einer Open-Source-Lizenz publiziert. Der Code ist öffentlich zugänglich, z. B. via [GitHub](https://github.com/)- oder [Bitbucket](https://bitbucket.org/)-Repository.
 
 \* Teams: Lest bitte vor der Bewerbung unter “Details” (unten) nach, was für Maßgaben für euch gelten.
 
