@@ -7,3 +7,8 @@ permalink: /
 ---
 
 # Willkommen in der Knowledge Base
+
+<img src="assets/images/logo-ptf.svg" alt="Logo Prototype Fund" style="width:200px;"/>
+
+![Gefördert vom Bundesministerium für Bildung und Forschung](assets/images/logo-bmbf.svg)
+![Ein Projekt der Open Knowledge Foundation Deutschland e. V.](assets/images/logo-okfn.svg)
