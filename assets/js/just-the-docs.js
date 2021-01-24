@@ -69,7 +69,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', '{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/js/search-data.json', true);
+  request.open('GET', '{{ site.baseurl }}/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -454,7 +454,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '{{ "assets/css/just-the-docs-" | absolute_url }}' + theme + '.css');
+  cssFile.setAttribute('href', '{{ site.baseurl }}/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
