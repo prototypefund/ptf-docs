@@ -5,6 +5,10 @@ parent: just-the-docs
 nav_order: 99
 ---
 
+Um eine Sprache zu haben, die einfach lesbar und zugleich schreibbar ist, wurde Markdown entwickelt. So kann der Text in jedem einfachen Texteditor verfasst werden, ohne dass viel Formatierungsanweisungen geschrieben werden müssen.
+
+# Wie schreibe ich Markdown?
+
 Text kann **fett**, _schräg_ oder ~~durchgestrichen~~ werden.
 
 ```markdown
