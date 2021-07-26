@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Berwerbung
+title: Bewerbung
 has_children: true
 nav_order: 3
 permalink: /bewerbung/
